@@ -1,2 +1,5 @@
-package solid.interfaceSegregation.example.good;public interface CanFly {
+package solid.interfaceSegregation.example.good;
+
+public interface CanFly {
+    void fly();
 }
